@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   -  [To-Do List: Kotlin](https://github.com/jasminexu1/To-Do-list/wiki)
   -  [Course Searching and Rating Web Application: Python, HTML, MySQL](https://github.com/helenxiia/Course-Connect)
   -  [Multiplayer Tetris Game: C++](https://github.com/jasminexu1/Multiplayer-tetris)
+  -  [Spam Classifier: Scala (Apache Spark)](https://github.com/jasminexu1/spam-classifier)
 
 📫 How to reach me: jasminexu0813@gmail.com
 
