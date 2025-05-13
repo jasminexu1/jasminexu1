@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 
 🔭 Some of my projects:
   -  [Google Map Review Reliability Checker: JavaScript](https://github.com/XunchaoZ/Google-Map-Review-Reliability-Checker)
-  -  [Real Estate Price Classifier: Python with Pandas](https://github.com/jasminexu1/Real-Estate-Price-Classifier)
+  -  [Real Estate Neural Network Classifier: Python with PyTorch and Matplotlib](https://github.com/jasminexu1/real-estate-neural-network-classifier)
+  -  [Shopping List Web App: TypeScript, HTML, CSS](https://github.com/jasminexu1/shopping-list-web-app)
   -  [To-Do List: Kotlin](https://github.com/jasminexu1/To-Do-list/wiki)
   -  [Course Searching and Rating Web Application: Python, HTML, MySQL](https://github.com/helenxiia/Course-Connect)
   -  [Multiplayer Tetris Game: C++](https://github.com/jasminexu1/Multiplayer-tetris)
   -  [Spam Classifier: Scala (Apache Spark)](https://github.com/jasminexu1/spam-classifier)
+  -  [Real Estate Price Classifier: Python with Pandas](https://github.com/jasminexu1/Real-Estate-Price-Classifier)
 
 📫 How to reach me: jasminexu0813@gmail.com
 
